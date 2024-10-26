@@ -16,8 +16,6 @@ The repository is structured by topics, each corresponding to a section in the N
 
 Each folder contains solutions to specific problems within that topic, with filenames indicating the problem title or number. 
 
-## 🚀 Getting Started
-
 To run any solution, ensure you have Python (or the required language) installed. Solutions are designed to be modular, so you can directly execute them or use them as references for similar problems.
 
 1. **Clone the Repository**
@@ -31,18 +29,3 @@ To run any solution, ensure you have Python (or the required language) installed
    ```bash
    python arrays-hashing/problem_name.py
    ```
-
-## 📘 Problem-Solving Approach
-
-Each solution includes a:
-- **Problem Summary** - Brief description and constraints.
-- **Solution Approach** - Explanation of the chosen algorithm and data structure.
-- **Complexity Analysis** - Time and space complexity of the solution.
-
-## 📝 Progress
-
-Tracking my progress on the roadmap, with updates as I tackle new challenges and refine existing solutions.
-
-## 🤝 Contributing
-
-Feel free to submit issues or suggest optimizations. All contributions aimed at improving efficiency and readability are welcome!
