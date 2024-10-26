@@ -5,9 +5,9 @@ class Solution:
             if nums[i] in l:
                 return True
             else:
-                l.append(i)
+                l.append(nums[i])
                 
         
         return False
 
-#failed many test cases
+#exceeds time limit in leetcode
