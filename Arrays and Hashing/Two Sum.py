@@ -10,4 +10,5 @@ class Solution:
             i = i + 1
             
             
-        #poor solution
+#brute force approach
+#On^2 time complexity
